@@ -1,0 +1,1 @@
+﻿<%@ WebHandler Language="vb" CodeBehind="ProgressHandler.ashx.vb" Class="XtraReportProgress.ProgressHandler" %>
