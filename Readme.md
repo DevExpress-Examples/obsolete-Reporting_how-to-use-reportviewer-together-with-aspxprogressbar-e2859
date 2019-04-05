@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/XtraReportProgress/Default.aspx) (VB: [Default.aspx](./VB/XtraReportProgress/Default.aspx))
-* [Default.aspx.cs](./CS/XtraReportProgress/Default.aspx.cs) (VB: [Default.aspx](./VB/XtraReportProgress/Default.aspx))
+* [Default.aspx.cs](./CS/XtraReportProgress/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/XtraReportProgress/Default.aspx.vb))
 * [ProgressHandler.ashx.cs](./CS/XtraReportProgress/ProgressHandler.ashx.cs) (VB: [ProgressHandler.ashx.vb](./VB/XtraReportProgress/ProgressHandler.ashx.vb))
 * [ProgressUpdater.cs](./CS/XtraReportProgress/ProgressUpdater.cs) (VB: [ProgressUpdater.vb](./VB/XtraReportProgress/ProgressUpdater.vb))
 * [XtraReport1.cs](./CS/XtraReportProgress/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/XtraReportProgress/XtraReport1.vb))
