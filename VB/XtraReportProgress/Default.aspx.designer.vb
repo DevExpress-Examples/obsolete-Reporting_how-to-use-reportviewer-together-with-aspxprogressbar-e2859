@@ -31,7 +31,7 @@ Namespace XtraReportProgress
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxProgressBar1 As Global.DevExpress.Web.ASPxEditors.ASPxProgressBar
+		Protected ASPxProgressBar1 As Global.DevExpress.Web.ASPxProgressBar
 
 		''' <summary>
 		''' ASPxCallbackPanel1 control.
@@ -40,7 +40,7 @@ Namespace XtraReportProgress
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxCallbackPanel1 As Global.DevExpress.Web.ASPxCallbackPanel.ASPxCallbackPanel
+		Protected ASPxCallbackPanel1 As Global.DevExpress.Web.ASPxCallbackPanel
 
 		''' <summary>
 		''' Panel1 control.

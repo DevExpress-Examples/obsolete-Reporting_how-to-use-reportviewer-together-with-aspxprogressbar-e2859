@@ -23,7 +23,7 @@ Namespace XtraReportProgress
 			ProgressUpdater.SetProgress(progressReflector.Maximum, progressReflector.Position)
 		End Sub
 
-		Protected Sub ASPxCallbackPanel1_Callback(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxClasses.CallbackEventArgsBase)
+		Protected Sub ASPxCallbackPanel1_Callback(ByVal sender As Object, ByVal e As DevExpress.Web.CallbackEventArgsBase)
 			Me.Panel1.Visible = True
 		End Sub
 	End Class

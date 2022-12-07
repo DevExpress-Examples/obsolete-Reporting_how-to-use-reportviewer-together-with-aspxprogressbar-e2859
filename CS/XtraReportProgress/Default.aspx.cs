@@ -21,7 +21,7 @@ namespace XtraReportProgress {
             ProgressUpdater.SetProgress(progressReflector.Maximum, progressReflector.Position);
         }
 
-        protected void ASPxCallbackPanel1_Callback(object sender, DevExpress.Web.ASPxClasses.CallbackEventArgsBase e) {
+        protected void ASPxCallbackPanel1_Callback(object sender, DevExpress.Web.CallbackEventArgsBase e) {
             this.Panel1.Visible = true;
         }
     }

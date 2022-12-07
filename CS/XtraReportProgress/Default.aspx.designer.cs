@@ -28,7 +28,7 @@ namespace XtraReportProgress {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxProgressBar ASPxProgressBar1;
+        protected global::DevExpress.Web.ASPxProgressBar ASPxProgressBar1;
         
         /// <summary>
         /// ASPxCallbackPanel1 control.
@@ -37,7 +37,7 @@ namespace XtraReportProgress {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxCallbackPanel.ASPxCallbackPanel ASPxCallbackPanel1;
+        protected global::DevExpress.Web.ASPxCallbackPanel ASPxCallbackPanel1;
         
         /// <summary>
         /// Panel1 control.
